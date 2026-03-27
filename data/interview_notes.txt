@@ -1,0 +1,1 @@
+Strong interview answers explain the situation, constraints, action, and result. For technical rounds, discuss tradeoffs, failure modes, and why your approach was appropriate. For leadership and behavioral rounds, show ownership, collaboration, and the measurable outcome.
